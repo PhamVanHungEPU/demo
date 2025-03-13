@@ -1,1 +1,2 @@
-HTMLAnchorElement
+HTMLAnchorElement;
+queueMicrotask
